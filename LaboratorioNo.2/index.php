@@ -13,13 +13,13 @@ CRIPT PHONE
 <h1>CRIPT PHONE</h1>
 
 
-  <body >
+  <body background="1.jpg">
 
   
 
   <form name="formulario" method="post" action="index.php">
 
-  <label>CÓDIGO</label> <br><br>
+  <label type = "1">CÓDIGO</label> <br><br>
     <input type="text" id="num0" name="num0" size="1" required minlength="1" maxlength="1" value=0 /> 
     <input type="text" id="num1" name="num1" size="1" required minlength="1" maxlength="1" value=0 />
     <input type="text" id="num2" name="num2" size="1" required minlength="1" maxlength="1" value=0 />
